@@ -8,22 +8,42 @@
 
 /* Begin PBXBuildFile section */
 		2D00613A28738E3900AB2D05 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D00613928738E3900AB2D05 /* AppDelegate.swift */; };
-		2D00613C28738E3900AB2D05 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D00613B28738E3900AB2D05 /* SceneDelegate.swift */; };
 		2D00613E28738E3900AB2D05 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D00613D28738E3900AB2D05 /* ViewController.swift */; };
 		2D00614128738E3900AB2D05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D00613F28738E3900AB2D05 /* Main.storyboard */; };
 		2D00614328738E3B00AB2D05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D00614228738E3B00AB2D05 /* Assets.xcassets */; };
 		2D00614628738E3B00AB2D05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D00614428738E3B00AB2D05 /* LaunchScreen.storyboard */; };
+		2D0061662873962700AB2D05 /* converse_obj.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 2D0061612873962700AB2D05 /* converse_obj.mtl */; };
+		2D0061672873962700AB2D05 /* converse_bump.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2D0061622873962700AB2D05 /* converse_bump.jpg */; };
+		2D0061682873962700AB2D05 /* converse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2D0061632873962700AB2D05 /* converse.jpg */; };
+		2D0061692873962700AB2D05 /* converse_obj.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2D0061642873962700AB2D05 /* converse_obj.obj */; };
+		2D00616A2873962700AB2D05 /* laces.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2D0061652873962700AB2D05 /* laces.jpg */; };
+		2D0061712873979E00AB2D05 /* Iphone seceond version finished.fbx in Resources */ = {isa = PBXBuildFile; fileRef = 2D00616B2873979C00AB2D05 /* Iphone seceond version finished.fbx */; };
+		2D0061722873979E00AB2D05 /* Iphone seceond version finished.c4d in Resources */ = {isa = PBXBuildFile; fileRef = 2D00616C2873979D00AB2D05 /* Iphone seceond version finished.c4d */; };
+		2D0061732873979E00AB2D05 /* camera-lens-icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2D00616D2873979D00AB2D05 /* camera-lens-icon.jpg */; };
+		2D0061742873979E00AB2D05 /* Iphone seceond version finished.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2D00616E2873979E00AB2D05 /* Iphone seceond version finished.obj */; };
+		2D0061752873979E00AB2D05 /* iphone-x-screens-status-bar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2D00616F2873979E00AB2D05 /* iphone-x-screens-status-bar.jpg */; };
+		2D0061762873979E00AB2D05 /* Iphone_seceond_version_finished.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 2D0061702873979E00AB2D05 /* Iphone_seceond_version_finished.mtl */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2D00613628738E3900AB2D05 /* scenekit-example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "scenekit-example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D00613928738E3900AB2D05 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2D00613B28738E3900AB2D05 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2D00613D28738E3900AB2D05 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2D00614028738E3900AB2D05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2D00614228738E3B00AB2D05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D00614528738E3B00AB2D05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D00614728738E3B00AB2D05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D0061612873962700AB2D05 /* converse_obj.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = converse_obj.mtl; sourceTree = "<group>"; };
+		2D0061622873962700AB2D05 /* converse_bump.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = converse_bump.jpg; sourceTree = "<group>"; };
+		2D0061632873962700AB2D05 /* converse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = converse.jpg; sourceTree = "<group>"; };
+		2D0061642873962700AB2D05 /* converse_obj.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = converse_obj.obj; sourceTree = "<group>"; };
+		2D0061652873962700AB2D05 /* laces.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = laces.jpg; sourceTree = "<group>"; };
+		2D00616B2873979C00AB2D05 /* Iphone seceond version finished.fbx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Iphone seceond version finished.fbx"; sourceTree = "<group>"; };
+		2D00616C2873979D00AB2D05 /* Iphone seceond version finished.c4d */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Iphone seceond version finished.c4d"; sourceTree = "<group>"; };
+		2D00616D2873979D00AB2D05 /* camera-lens-icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "camera-lens-icon.jpg"; sourceTree = "<group>"; };
+		2D00616E2873979E00AB2D05 /* Iphone seceond version finished.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Iphone seceond version finished.obj"; sourceTree = "<group>"; };
+		2D00616F2873979E00AB2D05 /* iphone-x-screens-status-bar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-x-screens-status-bar.jpg"; sourceTree = "<group>"; };
+		2D0061702873979E00AB2D05 /* Iphone_seceond_version_finished.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Iphone_seceond_version_finished.mtl; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +76,57 @@
 		2D00613828738E3900AB2D05 /* scenekit-example */ = {
 			isa = PBXGroup;
 			children = (
+				2D00614D28738E7E00AB2D05 /* Resources */,
 				2D00613928738E3900AB2D05 /* AppDelegate.swift */,
-				2D00613B28738E3900AB2D05 /* SceneDelegate.swift */,
 				2D00613D28738E3900AB2D05 /* ViewController.swift */,
 				2D00613F28738E3900AB2D05 /* Main.storyboard */,
-				2D00614228738E3B00AB2D05 /* Assets.xcassets */,
 				2D00614428738E3B00AB2D05 /* LaunchScreen.storyboard */,
 				2D00614728738E3B00AB2D05 /* Info.plist */,
 			);
 			path = "scenekit-example";
+			sourceTree = "<group>";
+		};
+		2D00614D28738E7E00AB2D05 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2D00614E28738E8800AB2D05 /* 3D */,
+				2D00614228738E3B00AB2D05 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		2D00614E28738E8800AB2D05 /* 3D */ = {
+			isa = PBXGroup;
+			children = (
+				2D0061772873983A00AB2D05 /* iphone */,
+				2D0061602873962700AB2D05 /* converse_model */,
+			);
+			path = 3D;
+			sourceTree = "<group>";
+		};
+		2D0061602873962700AB2D05 /* converse_model */ = {
+			isa = PBXGroup;
+			children = (
+				2D0061612873962700AB2D05 /* converse_obj.mtl */,
+				2D0061622873962700AB2D05 /* converse_bump.jpg */,
+				2D0061632873962700AB2D05 /* converse.jpg */,
+				2D0061642873962700AB2D05 /* converse_obj.obj */,
+				2D0061652873962700AB2D05 /* laces.jpg */,
+			);
+			path = converse_model;
+			sourceTree = "<group>";
+		};
+		2D0061772873983A00AB2D05 /* iphone */ = {
+			isa = PBXGroup;
+			children = (
+				2D00616D2873979D00AB2D05 /* camera-lens-icon.jpg */,
+				2D00616C2873979D00AB2D05 /* Iphone seceond version finished.c4d */,
+				2D00616B2873979C00AB2D05 /* Iphone seceond version finished.fbx */,
+				2D00616E2873979E00AB2D05 /* Iphone seceond version finished.obj */,
+				2D0061702873979E00AB2D05 /* Iphone_seceond_version_finished.mtl */,
+				2D00616F2873979E00AB2D05 /* iphone-x-screens-status-bar.jpg */,
+			);
+			path = iphone;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +187,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D0061722873979E00AB2D05 /* Iphone seceond version finished.c4d in Resources */,
+				2D0061692873962700AB2D05 /* converse_obj.obj in Resources */,
+				2D0061672873962700AB2D05 /* converse_bump.jpg in Resources */,
+				2D00616A2873962700AB2D05 /* laces.jpg in Resources */,
+				2D0061742873979E00AB2D05 /* Iphone seceond version finished.obj in Resources */,
+				2D0061662873962700AB2D05 /* converse_obj.mtl in Resources */,
+				2D0061752873979E00AB2D05 /* iphone-x-screens-status-bar.jpg in Resources */,
+				2D0061712873979E00AB2D05 /* Iphone seceond version finished.fbx in Resources */,
+				2D0061682873962700AB2D05 /* converse.jpg in Resources */,
 				2D00614628738E3B00AB2D05 /* LaunchScreen.storyboard in Resources */,
+				2D0061732873979E00AB2D05 /* camera-lens-icon.jpg in Resources */,
 				2D00614328738E3B00AB2D05 /* Assets.xcassets in Resources */,
 				2D00614128738E3900AB2D05 /* Main.storyboard in Resources */,
+				2D0061762873979E00AB2D05 /* Iphone_seceond_version_finished.mtl in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,7 +213,6 @@
 			files = (
 				2D00613E28738E3900AB2D05 /* ViewController.swift in Sources */,
 				2D00613A28738E3900AB2D05 /* AppDelegate.swift in Sources */,
-				2D00613C28738E3900AB2D05 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
